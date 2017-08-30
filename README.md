@@ -1,5 +1,6 @@
 # SSM Login
 > 基于 SSM 框架（Spring 4 + Spring MVC 4 + Mybatis 3）的登录程序
+
 Java + SSH 实现：[SSH Login](https://github.com/superchijinpeng/ssh_login)
 
 Kotlin + SSH 实现：[SSH Kotlin Login](https://github.com/superchijinpeng/ssh_kotlin_login)
@@ -25,3 +26,7 @@ DataBase: SQL Server 2016 Express Edition
 Application Server: Tomcat: 9.0.0.M17
 ### 配置
 Maven [/pom.xml](https://github.com/superchijinpeng/ssm_login/blob/master/pom.xml)
+
+Spring & Spring MVC [/src/main/webapp/WEB-INF/web.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/webapp/WEB-INF/web.xml)
+
+Spring & Mybatis [/src/main/webapp/WEB-INF/applicationContext.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/webapp/WEB-INF/applicationContext.xml)
