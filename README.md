@@ -5,6 +5,8 @@ Java + SSH 实现：[SSH Login](https://github.com/superchijinpeng/ssh_login)
 
 Kotlin + SSH 实现：[SSH Kotlin Login](https://github.com/superchijinpeng/ssh_kotlin_login)
 
+Kotlin + SSM 实现：[SSM Kotlin Login](https://github.com/superchijinpeng/ssm_kotlin_login)
+
 Kotlin + Struts 2 实现：[Struts 2 Kotlin Login](https://github.com/superchijinpeng/struts2_kotlin_login)
 ### 版本
 Spring 4.3.10.RELEASE
