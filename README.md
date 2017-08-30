@@ -27,6 +27,12 @@ Application Server: Tomcat: 9.0.0.M17
 ### 配置
 Maven [/pom.xml](https://github.com/superchijinpeng/ssm_login/blob/master/pom.xml)
 
+Spring MVC [/src/main/webapp/WEB-INF/dispatcher-servlet.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/webapp/WEB-INF/dispatcher-servlet.xml)
+
+Mybatis [/src/main/resources/mybatis/jdbc.properties](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/resources/mybatis/jdbc.properties)
+
+Mybatis Mapper [/src/main/resources/mybatis/mapper/UserMapper.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/resources/mybatis/mapper/UserMapper.xml)
+
 Spring & Spring MVC [/src/main/webapp/WEB-INF/web.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/webapp/WEB-INF/web.xml)
 
 Spring & Mybatis [/src/main/webapp/WEB-INF/applicationContext.xml](https://github.com/superchijinpeng/ssm_login/blob/master/src/main/webapp/WEB-INF/applicationContext.xml)
