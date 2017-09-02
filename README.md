@@ -18,6 +18,8 @@ Kotlin + Struts 2 实现：[Struts 2 Kotlin Login](https://github.com/superchiji
 Kotlin + Spring MVC 实现：[Spring MVC Kotlin Login](https://github.com/superchijinpeng/spring_mvc_kotlin_login)
 
 Spring Boot + Mybatis 实现：[Spring Boot Mybatis Login](https://github.com/superchijinpeng/spring_boot_mybatis_login)
+
+Kotlin + Spring Boot + Mybatis 实现：[Spring Boot Kotlin Mybatis Login](https://github.com/superchijinpeng/spring_boot_kotlin_mybatis_login)
 ### 版本
 Spring 4.3.10.RELEASE
 
