@@ -1,9 +1,11 @@
-# SSM Login
+# SSM login
 > 基于 SSM 框架（Spring 4 + Spring MVC 4 + Mybatis 3）的登录程序
 
 JSP 实现：[JSP Login](https://github.com/superchijinpeng/jsp_login)
 
 SSH 实现：[SSH Login](https://github.com/superchijinpeng/ssh_login)
+
+Struts 2 实现：[Struts 2 login](https://github.com/superchijinpeng/struts2_login)
 
 Spring MVC 实现：[Spring MVC Login](https://github.com/superchijinpeng/spring_mvc_login)
 
